@@ -1,0 +1,32 @@
+﻿namespace ConsoleApp1
+{
+    internal enum Metric
+    {
+        PassYds,
+        PassTD,
+        PassInt,
+        Att,
+        RushYds,
+        RushTD,
+        Tgt,
+        Rec,
+        RecYds,
+        RecTD,
+        RetTD,
+        TwoPt,
+        FumLost,
+        FG19,
+        FG29,
+        FG39,
+        FG49,
+        FG50,
+        PAT,
+        PtsVs,
+        Sack,
+        DefInt,
+        FumRec,
+        DefTD,
+        Safe,
+        BlcKick
+    }
+}
